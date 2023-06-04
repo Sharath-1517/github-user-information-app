@@ -127,4 +127,15 @@ body {
   100% {
     transform: rotate(360deg);
   }
+}
+
+.not_found {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.not_found p {
+  font-size: 3rem;
+  color: #fff;
 }/*# sourceMappingURL=styles.css.map */
